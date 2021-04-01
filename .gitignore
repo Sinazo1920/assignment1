@@ -1,0 +1,4 @@
+#Files and folders to be ignored 
+#Netbeans specific folders and files
+/nbproject/
+pom.xml
