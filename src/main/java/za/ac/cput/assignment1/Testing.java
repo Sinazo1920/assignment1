@@ -10,9 +10,23 @@ package za.ac.cput.assignment1;
  * @author VUYOLWETHU
  */
 public class Testing {
+    
+    /**
+     * Greeting 
+     * @return 
+     */
     public String greet(){
-        
+      
     return "Hello";
+    }
+    /**
+     * Greeting back
+     * @return 
+     */
+    
+    public String greet2(){
+    
+    return "Hellow to you too";
     }
     
 }
